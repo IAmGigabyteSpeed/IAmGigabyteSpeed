@@ -1,6 +1,5 @@
 ### Hi there 👋
-![IAmGigabyteSpeed's Stats](https://github-readme-stats.vercel.app/api?username=IAmGigabyteSpeed&theme=merko&show_icons=true&hide_border=true&count_private=true)
-![IAmGigabyteSpeed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmGigabyteSpeed&theme=merko&show_icons=true&hide_border=true&layout=compact)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmGigabyteSpeed)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **IAmGigabyteSpeed/IAmGigabyteSpeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
